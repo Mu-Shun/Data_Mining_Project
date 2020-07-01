@@ -24,7 +24,7 @@ Completeing tasks using spark. The goal of these tasks is to help us get familia
 Implemented the **SON** algorithm using the Apache Spark Framework. Finding frequent itemsets in two datasets, one simulated dataset and one real-world dataset generated from Yelp dataset. The goal of this assignment is to apply the algorithms we have learned in class on large datasets more efficiently in a **distributed environment**.
 
 ## Recommendation Systems
-In Assignment 3, I have completed three tasks. The goal is to be familiar with **Min-Hash, Locality Sensitive Hashing (LSH)**, and **various types of recommendation systems**.
+The goal is to be familiar with **Min-Hash, Locality Sensitive Hashing (LSH)**, and **various types of recommendation systems**. Building a content-based recommendation system by generating profiles from review texts for users and businesses in the train review set. Then using the system/model to predict if a user prefers to review a given business.
 
 ## Graph Network Algorithm
 Explored the spark GraphFrames library as well as implemented my own Girvan-Newman algorithm using the Spark Framework to **detect communities in graphs**. Also tried to deal with dataset for finding users who have a similar business taste. The goal of this assignment is to understand how to use the **Girvan-Newman algorithm** to detect communities in an efficient way within a **distributed environment**.
